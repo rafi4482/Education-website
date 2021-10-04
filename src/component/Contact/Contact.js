@@ -1,6 +1,7 @@
 import React from 'react';
 import "./Contact.css"
 import { ButtonGroup,Button, Col, Form, Row } from 'react-bootstrap';
+import Footer from '../Footer/Footer';
 
 const Contact = () => {
     return (
@@ -69,6 +70,7 @@ const Contact = () => {
     </Col>
   </Form.Group>
 </Form>
+<Footer></Footer>
         </div>
     );
 };

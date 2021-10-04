@@ -14,3 +14,10 @@
     border: 1px solid rgb(148, 167, 43);
     
 }
+.head{
+    text-align: center;
+    margin-top: 70px;
+    color: rgb(11, 139, 28);
+    margin-bottom: 50px;
+    font-weight: 20px;
+}

@@ -1,6 +1,7 @@
 import "./Home.css"
 import React, { useEffect, useState } from 'react';
 import { Card, Col, Row } from "react-bootstrap";
+import Footer from "../Footer/Footer";
 
 const Home = () => {
 
@@ -21,7 +22,7 @@ fetch('./serviceprovide.JSON')
           <p>we provide the best quality services</p>        
         </div>
 
-
+        <h1 className="head">OUR COURSE AND SERVICE</h1>
         <div className="card-create">
 
           <div className="row">
@@ -53,9 +54,7 @@ fetch('./serviceprovide.JSON')
 
         </div>
         
-        <footer>
-        <p>footer</p>
-        </footer>
+        <Footer></Footer>
       </div>
         
     );

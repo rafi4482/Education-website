@@ -5,7 +5,7 @@ import React from 'react';
 const Footer = () => {
     return (
         <div className="footer">
-            <h1>this is footer</h1>
+            <p> <span>LEARN </span> FOR YOU OWN GOOD</p>
             
         </div>
     );
