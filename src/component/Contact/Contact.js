@@ -6,7 +6,7 @@ import Footer from '../Footer/Footer';
 const Contact = () => {
     return (
         <div>
-            <h1 className="align">Sign in to view dashboard and progess</h1>
+            <h1 className="align">FILL OUT THIS FORM SO WE CAN GET BACK TO YOU</h1>
             <Form>
   <Form.Group as={Row} className="mb-3" controlId="formHorizontalEmail">
     <Form.Label column sm={2}>
@@ -28,7 +28,7 @@ const Contact = () => {
   <fieldset>
     <Form.Group as={Row} className="mb-3">
       <Form.Label as="legend" column sm={2}>
-        Radios
+        Please choose your interest
       </Form.Label>
       <Col sm={10}>
         <Form.Check

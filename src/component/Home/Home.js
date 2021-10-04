@@ -1,6 +1,6 @@
 import "./Home.css"
 import React, { useEffect, useState } from 'react';
-import { Card, Col, Row } from "react-bootstrap";
+import { Card, Carousel, Col, Row } from "react-bootstrap";
 import Footer from "../Footer/Footer";
 
 const Home = () => {
