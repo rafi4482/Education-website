@@ -5,6 +5,7 @@ import Footer from '../Footer/Footer';
 
 const Services = () => {
 
+    //setting state for card
 
     const[serv,setServ]=useState([]);
 

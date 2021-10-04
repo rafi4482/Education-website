@@ -11,8 +11,10 @@
     margin-top: 30px;
     background-color: rgb(26, 15, 87);
     color: white;
-    border: 1px solid rgb(148, 167, 43);
-    
+    border: 1px solid rgb(148, 167, 43);   
+}
+.card-create1 img{
+   height: 170px;   
 }
 .card-create1 span{
     color: rgb(248, 244, 15);   

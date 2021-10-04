@@ -5,6 +5,7 @@ import { Link, NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     return (
+      //navigation bar
         <Appbar bg="light" expand="lg">
         <Container fluid>
               <Appbar.Brand href="#">Rafi Education</Appbar.Brand>
