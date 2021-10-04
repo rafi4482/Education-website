@@ -15,13 +15,12 @@ fetch('./serviceprovide.JSON')
 
 
     return (
+      //header part
       <div>
-
         <div className="cont">
-          <h1>WELCOME TO RAFI EDUCATION</h1>  
+          <h1>WELCOME TO <span>RAFI IT TRAINING INSTITUTE</span></h1>  
           <p>we provide the best quality services</p>        
         </div>
-
         <h1 className="head">OUR COURSE AND SERVICE</h1>
         <div className="card-create">
           <div className="row">

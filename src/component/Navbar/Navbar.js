@@ -8,7 +8,7 @@ const Navbar = () => {
       //navigation bar
         <Appbar bg="light" expand="lg">
         <Container fluid>
-              <Appbar.Brand href="#">Rafi Education</Appbar.Brand>
+              <Appbar.Brand href="#">RITI</Appbar.Brand>
               <Appbar.Toggle aria-controls="navbarScroll" />
               <Appbar.Collapse id="navbarScroll">
       <Nav

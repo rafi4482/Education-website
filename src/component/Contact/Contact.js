@@ -5,6 +5,7 @@ import Footer from '../Footer/Footer';
 
 const Contact = () => {
     return (
+      //form creation
         <div>
             <h1 className="align">FILL OUT THIS FORM SO WE CAN GET BACK TO YOU</h1>
             <Form>

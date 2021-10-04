@@ -1,9 +1,14 @@
+
+
 .cont{   
-    background-color:rgb(86, 86, 185);
-    color: white;
+    background-color:rgb(60, 60, 192);
+    color: rgb(255, 255, 255);
     padding: 200px;
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cont span{   
+    color: rgb(214, 246, 32);
 }
 .card-create1{
     text-align: center;
