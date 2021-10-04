@@ -14,6 +14,7 @@ import NotFound from './component/NotFound/NotFound';
 import Navbar from './component/Navbar/Navbar';
 import Services from './component/Services/Services';
 import Contact from './component/Contact/Contact';
+import Footer from './component/Footer/Footer';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
      <Switch>
         <Route exact path="/">
           <Home></Home>
+         
         </Route>
         <Route exact path="/home">
           <Home></Home>

@@ -1,9 +1,11 @@
 import React from 'react';
+import Footer from '../Footer/Footer';
 
 const NotFound = () => {
     return (
         <div>
             <h1>error 444 page not found</h1>
+            <Footer></Footer>
         </div>
     );
 };

@@ -1,5 +1,6 @@
 import React from 'react';
 import { Container, Nav, NavDropdown,Navbar as Appbar, Stack } from 'react-bootstrap';
+
 import { Link, NavLink } from 'react-router-dom';
 
 const Navbar = () => {
@@ -54,7 +55,10 @@ const Navbar = () => {
       </Nav>     
     </Appbar.Collapse>
   </Container>
+
+ 
 </Appbar>
+
     );
 };
 

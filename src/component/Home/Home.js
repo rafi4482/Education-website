@@ -46,36 +46,13 @@ fetch('./serviceprovide.JSON')
                 )
 
 
-
-
-
-
-
-
-
             }
-
-
-
-
-
-
-
 
           </div>
 
 
-
-
         </div>
         
-    
-   
-      
-
-          
-        
-   
         <footer>
         <p>footer</p>
         </footer>
