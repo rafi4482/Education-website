@@ -1,5 +1,5 @@
 # RAFI EDUCATION
-Live Site: https://hopeful-raman-13582c.netlify.app/home
+Live Site: https://hopeful-raman-13582c.netlify.app/
 
 
 
