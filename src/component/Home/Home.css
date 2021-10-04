@@ -6,7 +6,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .card-create1{
-   
+    text-align: center;
     height: 400px;
     margin-top: 30px;
     background-color: rgb(26, 15, 87);
