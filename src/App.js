@@ -11,11 +11,16 @@ import {
   Link
 } from "react-router-dom";
 import NotFound from './component/NotFound/NotFound';
+import Navbar from './component/Navbar/Navbar';
+import Services from './component/Services/Services';
+import Contact from './component/Contact/Contact';
 
 function App() {
   return (
     <div>
+      
      <Router>
+       <Navbar/>
      <Switch>
         <Route exact path="/">
           <Home></Home>
@@ -25,6 +30,12 @@ function App() {
         </Route>
         <Route exact path="/about">
           <About></About>
+        </Route>
+        <Route exact path="/services">
+          <Services></Services>
+        </Route>
+        <Route exact path="/contact">
+          <Contact></Contact>
         </Route>
         <Route exact path="*">
           <NotFound></NotFound>
