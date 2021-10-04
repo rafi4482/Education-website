@@ -36,9 +36,9 @@ fetch('./serviceprovide.JSON')
                     <img className="w-50 mx-5" src={c.img} alt="" />
                   </div>
                   <div>
-                    <h3>Course Name: {c.name}</h3>
-                    <h4>Course Fee: {c.price}</h4>
-                    <p>{c.desc}</p>
+                    <h3>Course Name:<span>{c.name}</span> </h3>
+                    <h4>Course Fee: <span>{c.price}</span> </h4>
+                    <p> <span>{c.desc}</span> </p>
                   
 
                   </div>

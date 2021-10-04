@@ -1,0 +1,14 @@
+.about-align{
+    margin: 50px;
+    text-align: center;
+}
+.heading{
+    padding: 50px;
+    margin-top: 50px;
+    color: rgb(51, 73, 6);
+}
+.paragraph{
+    font-style: inherit;
+    font-weight: bold;
+    font-family:sans-serif;
+}
