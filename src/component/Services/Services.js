@@ -1,10 +1,11 @@
 import React from 'react';
+import "./Services.css"
 import Footer from '../Footer/Footer';
 
 const Services = () => {
     return (
-        <div>
-            <h1>services</h1>
+        <div className="services">
+            <h2>LEARN MORE ABOUT OUR EXTRA CRASH COURSES</h2>
             <Footer></Footer>
         </div>
     );
