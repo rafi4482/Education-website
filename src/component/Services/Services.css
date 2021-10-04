@@ -5,8 +5,12 @@
 }
 .card-create12{
     height: 400px;
-    margin-top: 30px;
+    margin-top: 40px;
     background-color: rgb(33, 5, 148);
-    color: rgb(250, 226, 10);
+    color: rgb(219, 213, 140);
     border: 1px solid rgb(148, 167, 43);
+}
+.card-create12 img{
+
+    height: 170px;
 }
