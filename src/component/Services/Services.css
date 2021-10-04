@@ -3,3 +3,10 @@
     color: rgb(50, 95, 4);
     text-align: center;
 }
+.card-create12{
+    height: 400px;
+    margin-top: 30px;
+    background-color: rgb(33, 5, 148);
+    color: rgb(250, 226, 10);
+    border: 1px solid rgb(148, 167, 43);
+}

@@ -1,5 +1,4 @@
-const serviceprovide =[
-
+const fakedata44 =[
     {
       name:'Python crash course',
       price: 3000,
@@ -7,11 +6,11 @@ const serviceprovide =[
       img:'https://www.gom.com/-/media/gom-website/global/services/gom-training-overview/elearning/gom_elearning-python-for-beginners_teaser.jpg?as=0&dmc=0&thn=0',
     },
     {
-        name:'Java crash course',
-        price: 4000,
-        desc: 'This course provides a complete walkthrough of professional Java developement',
-        img:'https://www.gcreddy.com/2021/07/java-tutorial.html',
-      },
+      name:'Java crash course',
+      price: 4000,
+      desc: 'This course provides a complete walkthrough of professional Java developement',
+      img:'https://www.filepicker.io/api/file/t12BZqmRoulvCTDhoYie',
+    },
       {
         name:'C crash course',
         price: 3500,
@@ -53,5 +52,6 @@ const serviceprovide =[
         price: 5600,
         desc: 'Python framework used in various reasons',
         img:'https://www.fullstackpython.com/img/logos/django.png',
-      }
+      },
+      
     ]

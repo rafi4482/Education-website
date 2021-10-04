@@ -18,16 +18,13 @@ fetch('./serviceprovide.JSON')
       <div>
 
         <div className="cont">
-          <h1>welcome to Rafi Education</h1>  
+          <h1>WELCOME TO RAFI EDUCATION</h1>  
           <p>we provide the best quality services</p>        
         </div>
 
         <h1 className="head">OUR COURSE AND SERVICE</h1>
         <div className="card-create">
-
           <div className="row">
-
-
             {
               card.map(c=><div className="col-md-3">
                 <div className="card-create1">
@@ -36,16 +33,13 @@ fetch('./serviceprovide.JSON')
                     <img className="w-50 mx-5" src={c.img} alt="" />
                   </div>
                   <div>
-                    <h3>Course Name:<span>{c.name}</span> </h3>
+                    <h3 className="margin">Course Name: <span>{c.name}</span> </h3>
                     <h4>Course Fee: <span>{c.price}</span> </h4>
                     <p> <span>{c.desc}</span> </p>
-                  
-
                   </div>
                 </div>
                 </div>
                 )
-
 
             }
 
